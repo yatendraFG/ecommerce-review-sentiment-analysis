@@ -1,0 +1,8 @@
+Flask
+imblearn
+nltk
+numpy
+pandas
+scikit-learn
+seaborn
+textblob
